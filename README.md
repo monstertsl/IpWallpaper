@@ -1,6 +1,6 @@
 ---
 
-# WallpaperTool - 桌面水印工具
+# WallpaperTool-桌面水印工具
 
 > 一款轻量级 Windows (Python版兼容win7，Rust版不兼容win7) 桌面系统信息水印工具，可自动将主机名、IP 地址、MAC 地址等信息作为水印叠加到当前壁纸上，并支持一键还原。
 
